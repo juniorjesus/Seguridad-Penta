@@ -1,0 +1,26 @@
+.header {
+    text-align: center;
+    color: #000000;
+    padding: 20px;
+    font-size: 20px;
+    background: #645ba8;
+}
+
+.header nav {
+    display: flex;
+    justify-content: center;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.link {
+    text-decoration: none;
+    color: #000000;
+    letter-spacing: 5px;
+    padding-right: 5%;
+}
+
+
+.link:hover {
+    color: #55daf1;
+}

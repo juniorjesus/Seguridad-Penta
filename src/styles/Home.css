@@ -1,0 +1,19 @@
+.ContainerPrincipal {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.tituloPrincipal{
+    font-size: 50px;
+}
+
+.parrafoInicio{
+    font-size: 20px;
+}
+
+.containerImagenes{
+    margin-bottom: 20px;
+}

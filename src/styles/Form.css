@@ -1,0 +1,54 @@
+#formulario {
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 3%;
+    margin-left: 30%;
+    border: 1px solid #000000;
+    margin-top: 5%;
+    margin-bottom: 60px;
+    width: 600px;
+    height: auto;
+}
+
+#formulario h2 {
+    text-align: center;
+    color: #000000;
+}
+
+.inputs {
+    display: flex;
+}
+
+.boton {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+button {
+    border: 2px solid #645ba8;
+    border-radius: 80px;
+    color: black      ;
+    background: #645ba8;
+    font-size: 15px;
+}
+
+button:hover {
+    cursor: pointer;
+    background: white;
+}
+
+.containerLabel {
+    width: 150px;
+    margin-right: 10px;
+}
+
+input {
+    margin-bottom: 10px;
+    margin-left: 10px;
+    width: 300px;
+}
+
+select {
+    margin-bottom: 10px;
+}

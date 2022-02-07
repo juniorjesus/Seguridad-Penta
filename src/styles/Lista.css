@@ -1,0 +1,32 @@
+.tituloPrincipal {
+    display: flex;
+    justify-content: center;
+}
+
+.tabla {
+    color: #000000;
+    border: 1px solid #000000;
+    width: 100%;
+    align-content: center;
+    text-align: center;
+    margin-top: 5%;
+    padding-right: 4%;
+    margin-bottom: 50px;
+}
+
+.fotoAutor {
+    width: 150px;
+    height: auto;
+}
+
+.botonEliminar {
+    border: 2px solid #645ba8   ;
+    border-radius: 80px;
+    color: black;
+    background: #645ba8;
+}
+
+.botonEliminar:hover {
+    cursor: pointer;
+    background: white;
+}
