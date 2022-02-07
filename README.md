@@ -1,73 +1,59 @@
-# Getting Started with Create React App
+# App-Usuarios-registrados
+Prueba Técnica de salida (Front-End | Junior) Aplicación React &amp; Redux para validar  conocimientos adquiridos.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+  <img alt="Pokedex" src="https://res.cloudinary.com/djbaqvlnn/image/upload/v1644265292/Captura_de_pantalla_2022-02-07_151748_au9eh4.jpg" />
+</h1>
 
-## Available Scripts
+## Iniciando el proyecto  🚀
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Descargar el proyecto mediante Github Desktop o GitBash realizando una clonación, o descargando
+en como archivo zip y abriendo la carpeta en su editor de codigos
 
 
-# Link de despliegue en Vercel:
+## Instalación 🔧
+
+En la terminal del proyecto correr los seiguentes comandos:
+
+### `npm install`
+
+Con este comando instalamos las dependencias del proyecto
+
+### `yarn start`
+
+Con yarn start iniciamos el servidor el puerto predeterminado es:
+[http://localhost:3000]
+
+ya tenemos nuestro proyecto corriendo en el navegador.
+
+## Despliegue 📦
+
+https://seguridad-penta.vercel.app/
+
+## Construido con 🛠️
+
+las herramientas utlizadas en este proyecto son:
+
+
+- bootstrap
+- react
+- react-dom
+- react-loading-icons
+- react-router
+- react-router-dom
+- react-scripts
+-react-html-table-to-excel
+-Styled Components
+
+
+
+## Autor ✒️
+
+ Hecho con ❤️ por Junior Jesús López González
+https://github.com/juniorjesus
+
+## Licencia 📄
+
+Seguridad Penta
+
+👋🏻 [Trabaja conmigo!](https://github.com/juniorjesus)
